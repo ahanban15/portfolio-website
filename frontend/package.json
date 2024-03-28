@@ -14,7 +14,9 @@
     "framer-motion": "^4.1.17",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^3.0.1",
+    "react-icons": "^5.0.1",
+    "react-scripts": "^5.0.1",
+    "react-tooltip": "^5.26.3",
     "save-dev": "^0.0.1-security",
     "web-vitals": "^2.1.4"
   },

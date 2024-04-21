@@ -1,0 +1,8 @@
+export const aboutData = {
+    title: "About Me",
+    description1: "I am a passionate and results-driven B.Tech CSE student and an aspiring Software Developer Engineer. I thrive on solving complex problems and building innovative solutions that make a positive impact on the world.",
+    description2: "I possess expertise in a wide array of technologies and programming languages, including C++, Python, MERN Stack, Python libraries, APIs, etc. My diverse skill set enables me to tackle challenges across software development and enables seamless integration between different components. ",
+    description3: "In each project I take on, I embrace a solutions-focused approach. I relish the opportunity to identify bottlenecks, architect elegant solutions, and implement robust code that stands the test of time. My commitment to writing clean, maintainable code ensures that my contributions are scalable and adaptable to evolving requirements. I am always exploring emerging technologies, attending industry conferences, and participating in hackathons to expand my knowledge and stay up-to-date with the latest trends. I am eager to embrace new challenges and welcome opportunities to learn and grow as a professional.", 
+    description4: "Looking forward to working with great organizations with talented and experienced professionals to be able to contribute towards society's common welfare.",
+    image: 1
+}
